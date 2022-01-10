@@ -1,9 +1,9 @@
 # 2021届南大软件工程教材PDF
 **根据 [21-22-1教材信息统计表](https://github.com/lyc8503/2021-nju-software-engineering-textbook/blob/main/21-22-1教材信息统计表.pdf) 中列出的教材整理的 PDF 合集.**
 
-**Onedrive 下载: [https://oneindex.lyc8503.workers.dev/南大/电子教材/21软件工程/](https://oneindex.lyc8503.workers.dev/%E5%8D%97%E5%A4%A7/%E7%94%B5%E5%AD%90%E6%95%99%E6%9D%90/21%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/)**
+**Onedrive 下载: [https://oneindex.lyc8503.workers.dev/南大/电子教材/21软件工程/](https://pan.lyc8503.site/Public/%E5%8D%97%E5%A4%A7/%E7%94%B5%E5%AD%90%E6%95%99%E6%9D%90/21%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/)**
 
-~~百度网盘下载: 居然会有人用这种东西! (其实是等下再更新吧)~~
+~~百度网盘下载: 居然会有人用这种东西!~~
 
 
 

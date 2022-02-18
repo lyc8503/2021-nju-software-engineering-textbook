@@ -34,9 +34,9 @@ Linux系统管理（第2版），作者：宁方明等，人民邮电出版社�
 
 -----
 
-A Byte of Python (中文版).
+A Byte of Python (中文版&英文版).
 HEAD FIRST JAVA 中文版 第2版, Kathy Sierra&Bert Bates著；Oreilly Taiwan公司译, 7-5083-4498-7.
-离散数学结构 第6版 (中文版/英文版), （美）BERNARD KOLMAN，ROBERT C.BUSBY著；罗平译, 978-7-04-035049-4.
+离散数学结构 第6版 (中文版&英文版), （美）BERNARD KOLMAN，ROBERT C.BUSBY著；罗平译, 978-7-04-035049-4.
 
 ```
 
